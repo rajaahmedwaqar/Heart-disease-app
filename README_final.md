@@ -6,8 +6,8 @@ A user opens the live web page, enters four values, and the trained model return
 
 **Python • pandas • scikit-learn • Support Vector Classifier • Jupyter Notebook • Streamlit • GitHub**
 
-> 🔗 **Live demo:** `PASTE-YOUR-STREAMLIT-LINK-HERE`
-> *(Replace this with your `https://….streamlit.app` link after deploying.)*
+> 🔗 **Live demo:** `https://heart-disease-app-jes4zdm4hfczcb3vxypo7w.streamlit.app/ '
+> 
 
 ## Overview
 
@@ -37,7 +37,7 @@ Confusion matrix on the 61 held-out test patients.
 ### Web app
 *Add a screenshot of your deployed app here after deployment, for example `screenshots/app.png`, then uncomment the line below.*
 
-<!-- ![Heart Disease Prediction web app](screenshots/app.png) -->
+[Heart Disease Prediction web app]("D:\University Data\SPRING 2027\MLF\assignment 2\Heart_Disease_Project\Heart_Disease_Project\disease_predicted_ss.png") -->
 
 ## 🏗️ System Architecture
 
