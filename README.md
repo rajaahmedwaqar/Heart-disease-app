@@ -5,6 +5,7 @@ An end-to-end machine learning system that predicts whether a patient has heart 
 A user opens the live web page, enters four values, and the trained model returns its prediction of heart disease.
 
 **Python • pandas • scikit-learn • Support Vector Classifier • Jupyter Notebook • Streamlit • GitHub**
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/Support%20Vector%20Classifier-6A1B9A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Support Vector Classifier"> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
 
 > 🔗 **Live demo:** `https://heart-disease-app-jes4zdm4hfczcb3vxypo7w.streamlit.app/ '
 > 
