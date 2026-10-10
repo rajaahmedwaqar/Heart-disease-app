@@ -145,5 +145,5 @@ if predict_clicked:
     </div>
     """, unsafe_allow_html=True)
 
-st.markdown('<div class="small">Educational project (AIC354 Assignment 2). '
+st.markdown('<div class="small">Educational project by Raja Ahmed Waqar. '
             'Not a medical diagnosis tool.</div>', unsafe_allow_html=True)
