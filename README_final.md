@@ -37,7 +37,7 @@ Confusion matrix on the 61 held-out test patients.
 ### Web app
 *Add a screenshot of your deployed app here after deployment, for example `screenshots/app.png`, then uncomment the line below.*
 
-[Heart Disease Prediction web app]("Heart_Disease_Project\disease_predicted_ss.png") -->
+[Heart Disease Prediction web app]("disease_predicted_ss.png") -->
 
 ## 🏗️ System Architecture
 
