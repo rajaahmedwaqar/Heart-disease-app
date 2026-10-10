@@ -37,8 +37,8 @@ Confusion matrix on the 61 held-out test patients.
 
 ### Web app
 
-![DISEASE PREDICTED](screenshots/disease_predicted_ss.png) 
 ![NO DISEASE PREDICTED](screenshots/no_disease_predicted_ss.png) 
+![DISEASE PREDICTED](screenshots/disease_predicted_ss.png) 
 
 ## 🏗️ System Architecture
 
